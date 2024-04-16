@@ -4,11 +4,11 @@ Welcome to 3dBakery! I'm thrilled to present this project, which aims to offer a
 
 ## Getting Started
 
-To dive into the world of 3dBakery, simply visit the [website](https://otabek0111.github.io/3dBakery/) and start exploring the collection of 3D models. No installation required!
+To dive into the world of 3dBakery, simply visit the [website](https://otabek0111.github.io/3dBakery/) and start exploring the 3D model. No installation required!
 
 ## Features
 
-- **High-Quality 3D Models**: Explore a diverse range of baking tools and ingredients meticulously crafted in 3D for an immersive experience.
+- **High-Quality 3D Model**: Explore a diverse range of baking tools and ingredients meticulously crafted in 3D for an immersive experience.
   
 - **Interactive Viewing**: Rotate, zoom, and inspect each 3D model from every angle to understand its details and design better.
   
